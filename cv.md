@@ -8,5 +8,6 @@ I want learn programming because:
 * love to learn something new
 * I think it's very interesting.
 So, let's start education, and thanks RS School for this oportunity!  
-> It is not enough just to gain knowledge; I need to find a use for them. I. Goethe  
+> It is not enough just to gain knowledge; I need to find a use for them. I. Goethe
+
 In the course of my training, I will add my projects.
