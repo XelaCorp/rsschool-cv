@@ -1,3 +1,3 @@
 # rsschool-cv
 CV
-https://elacorp..github.io/rsschool-cv/
+https://xelacorp..github.io/rsschool-cv/
